@@ -22,4 +22,3 @@ Don't forget to :star: the repo if you like it :blush:
 
 </div>
 
-[![Stargazers repo roster for @FahimFBA/RainyRoof_Restaurant_Website](https://reporoster.com/stars/FahimFBA/RainyRoof_Restaurant_Website)](https://github.com/FahimFBA/RainyRoof_Restaurant_Website/stargazers)
